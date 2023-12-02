@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Speed Dial</title>
+        <link rel="stylesheet" href="popup.css">
+    </head>
+
+    <body>
+        <div id="app">
+            <div class="container">
+                <div class="section" v-for="section in links">
+                    <div class="title">{{ section.title }}</div>
+                    <div class="blocks">
+                        <div class="block" v-for="block in section.data">
+                            <a :href=block.url>
+                                <img :src=block.favicon alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <script src="http_unpkg.com_vue@3_dist_vue.global.js"></script>
+    <script src="http_cdn.jsdelivr.net_npm_less.js"></script>
+
+    <script src="popup.js"></script>
+</html>
