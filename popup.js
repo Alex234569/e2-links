@@ -43,11 +43,11 @@ createApp({
                     {
                         name: "Metrics DV",
                         url: "https://dev.sport-importer.sports-cube.com/metrics/",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     }, {
                         name: "Metrics ST",
                         url: "https://staging.web.sport-importer.sports-cube.com/metrics/",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     },
                 ]
             }, {
@@ -58,11 +58,11 @@ createApp({
                     }, {
                         name: "Grafana ST",
                         url: "https://staging.metrics.e-2.at/login",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     }, {
                         name: "Grafana",
                         url: "https://metrics.e-2.at/login",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/000000/20/0/kbjy.png"
+                        favicon: "images/pr.png"
                     },
                 ]
             }, {
@@ -71,11 +71,11 @@ createApp({
                     {
                         name: "Solr DV",
                         url: "http://e2-dv.vm.nextlayer.at:8080/sportscube/#/persons/query",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     }, {
                         name: "Solr ST",
                         url: "http://e2-st.vm.nextlayer.at:8080/sportscube/#/persons/query",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     },
                 ]
             }, {
@@ -84,11 +84,11 @@ createApp({
                     {
                         name: "Rabbit DV",
                         url: "https://dev.amqp.sports-cube.com/#/",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     }, {
                         name: "Rabbit ST",
                         url: "https://staging.amqp.sports-cube.com/#/",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     },
                 ]
             }, {
@@ -97,15 +97,15 @@ createApp({
                     {
                         name: "Admin DV",
                         url: "https://dev.admin.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     }, {
                         name: "Admin ST",
                         url: "https://staging.admin.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     }, {
                         name: "Admin PR",
                         url: "https://admin.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/000000/20/0/kbjy.png"
+                        favicon: "images/pr.png"
                     },
                 ]
             }, {
@@ -114,15 +114,15 @@ createApp({
                     {
                         name: "API DV",
                         url: "https://dev.api.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     }, {
                         name: "API ST",
                         url: "https://staging.api.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/166bf3/20/0/kpky.png"
+                        favicon: "images/st.png"
                     }, {
                         name: "API PR",
                         url: "https://api.sports-cube.com",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/000000/20/0/kbjy.png"
+                        favicon: "images/pr.png"
                     },
                 ]
             }, {
@@ -131,7 +131,7 @@ createApp({
                     {
                         name: "Ads DV",
                         url: "https://dev.ads.e-2.at",
-                        favicon: "https://x-lines.ru/letters/i/cyrillicother/0857/15e51b/20/0/etmy.png"
+                        favicon: "images/dv.png"
                     },
                 ]
             }, {
